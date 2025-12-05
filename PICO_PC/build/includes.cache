@@ -1,0 +1,317 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\cores\\rp2040"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\variants\\rpipico"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "AbsoluteEncoder.h",
+    "Includepath": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\AbsoluteEncoder\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Battery.h",
+    "Includepath": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Battery\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Debug.h",
+    "Includepath": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Debug\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "mcp2515.h",
+    "Includepath": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Can\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Display.h",
+    "Includepath": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Display\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Adafruit_GFX.h",
+    "Includepath": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Adafruit_I2CDevice.h",
+    "Includepath": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_BusIO"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Adafruit_SH110X.h",
+    "Includepath": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_SH110X"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "LwipIntfDev.h",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\lwIP_Ethernet\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Updater.h",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\Updater\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "MD5Builder.h",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\MD5Builder\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "Dynamixel_ll.h",
+    "Includepath": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Dynamixel_ll\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "debug_log.h",
+    "Includepath": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\debug_log\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\build\\sketch\\can_exchange.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\AbsoluteEncoder\\src\\AbsoluteEncoder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\AbsoluteEncoder\\src\\ams_as5048b.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Battery\\src\\Battery.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Debug\\src\\Debug.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Can\\src\\CanWrapper.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Can\\src\\mcp2515.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Display\\src\\Display.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GFX.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_GrayOLED.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\Adafruit_SPITFT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_GFX_Library\\glcdfont.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_BusIO_Register.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_GenericDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_I2CDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_BusIO\\Adafruit_SPIDevice.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_SH110X\\Adafruit_SH1106G.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_SH110X\\Adafruit_SH1107.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Documents\\Arduino\\libraries\\Adafruit_SH110X\\Adafruit_SH110X.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\BearSSLHelpers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\CertStoreBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\WiFiClass.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\WiFiClientSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\WiFiNTP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\WiFiServerSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\WiFi\\src\\dhcpserver\\dhcpserver.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\lwIP_Ethernet\\src\\LwipEthernet.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\lwIP_Ethernet\\src\\LwipIntf.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\lwIP_Ethernet\\src\\LwipIntfCB.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\Updater\\src\\Updater.cpp",
+    "Include": "LittleFS.h",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\LittleFS\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\Updater\\src\\Updater.cpp",
+    "Include": "PicoOTA.h",
+    "Includepath": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\PicoOTA\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\Updater\\src\\Updater.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\MD5Builder\\src\\MD5Builder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\Dynamixel_ll\\src\\Dynamixel_ll.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\Desktop\\isaac\\def_CAN_TX_RX\\can_exchange\\lib\\debug_log\\src\\debug_log.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\LittleFS\\src\\LittleFS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\LittleFS\\src\\lfs.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\LittleFS\\src\\lfs_util.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\franc\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.6.1\\libraries\\PicoOTA\\src\\PicoOTA.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
